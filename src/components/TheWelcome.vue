@@ -26,6 +26,7 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #heading>Tooling</template>
 
     This project is served and bundled with
+    <button class="border rounded-md bg-color-red-200">heehee</button>
     <a href="https://vitejs.dev/guide/features.html" target="_blank" rel="noopener">Vite</a>. The
     recommended IDE setup is
     <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">VSCode</a> +
