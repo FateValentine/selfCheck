@@ -8,7 +8,6 @@ defineProps({
 </script>
 
 <template>
-  <button class="border rounded-md border-red-400">button 'to</button>
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
