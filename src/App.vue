@@ -12,7 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
       <nav>
           <h1 class="text-3xl font-bold underline text-red-400">
-            Hello world!
+            Hello world from HEEEEEEEEEEEELLLL!
           </h1>
         <RouterLink to="/">Homeeeeeeeeeeeeeeeeeeeeeeeeee</RouterLink>
         <RouterLink to="/about">Abouuuuuuuuuuuuuuuuuuuuuut</RouterLink>
