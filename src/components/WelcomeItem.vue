@@ -6,6 +6,7 @@
     <div class="details">
       <h3>
         <slot name="heading"></slot>
+        <p class="text-green-400">heeeeeeheeeeee</p>
       </h3>
       <slot></slot>
     </div>
